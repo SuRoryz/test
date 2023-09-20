@@ -1,8 +1,17 @@
-So many
+So many mah
 new lines
 i can't describe
 how it's cool
 
 function get() {]
 	baba();
-}
+};
+
+Biba
+Boooba
+
+def new text(my):
+	my.srtp()
+	return 1
+
+close()
