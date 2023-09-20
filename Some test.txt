@@ -1,4 +1,8 @@
-O ma gad
-new
-tripe
-dd
+So many
+new lines
+i can't describe
+how it's cool
+
+function get() {]
+	baba();
+}
